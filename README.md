@@ -1,36 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![1logad](https://github.com/user-attachments/assets/2557fbb2-b292-4569-b44e-d539be0394de)
+![2sigap](https://github.com/user-attachments/assets/a3ab3424-eac9-4859-8ce9-3a0a96ad9442)
+![1ap](https://github.com/user-attachments/assets/04125ef8-f0c3-476a-bfb5-3b52bc0c10f4)
 
-## Getting Started
+![2ap](https://github.com/user-attachments/assets/2f4f8442-f6e0-448c-81c3-d58b3f2a07d4)
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![3](https://github.com/user-attachments/assets/4a1cab36-cc4b-4aa6-a8e7-d515b73aca98)
+![3ap](https://github.com/user-attachments/assets/9e8570f2-69bb-4ac8-8caa-841101e47450)
+![4](https://github.com/user-attachments/assets/413c00a6-5cfa-42fe-8215-1b7b60de0754)
+![4ap](https://github.com/user-attachments/assets/241ac33b-d9f6-41cd-8019-cf502fa05d97)
