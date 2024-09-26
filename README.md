@@ -6,7 +6,7 @@
 
 - Created - 2024-09-03
 
-- Technologies Used - Html , Css , MaterialUi , Nextjs
+- Technologies Used - Html , Css , MaterialUi , Nextjs,React
 
 - Hooks Used : useState 
 ![1logad](https://github.com/user-attachments/assets/2557fbb2-b292-4569-b44e-d539be0394de)
