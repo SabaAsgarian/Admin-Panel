@@ -1,12 +1,12 @@
 # Admin-Panel
-
+admin panel with sign up and sign in
 - [Demo Project](https://admin-panel-azure-ten.vercel.app/)
 
 - Developed by Saba Asgarian
 
 - Created - 2024-09-03
 
-- Technologies Used - Html , Css , MaterialUi , Nextjs , React
+- Technologies Used - Html , Css , MaterialUi , Nextjs , React,FetchApi,Crud(Create Read Update Delete) api
 
 - Hooks Used : useState 
 ![1logad](https://github.com/user-attachments/assets/2557fbb2-b292-4569-b44e-d539be0394de)
