@@ -1,5 +1,5 @@
 # Admin-Panel 
-admin panel with functional sign up and sign in.
+admin panel with functional sign up and sign in 
 - [Demo Project](https://admin-panel-azure-ten.vercel.app/)
 
 - Developed by Saba Asgarian
