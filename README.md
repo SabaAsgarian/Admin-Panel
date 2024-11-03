@@ -1,6 +1,7 @@
 # Admin-Panel 
 admin panel with functional sign up and sign in 
-- [Demo Project](https://admin-panel-azure-ten.vercel.app/)
+- [Demo Project with sign-up & login](https://admin-panel-azure-ten.vercel.app/)
+- [Demo Project without sign-up & login](https://admin-panel-azure-ten.vercel.app/components/dashboard)
 
 - Developed by Saba Asgarian
 
