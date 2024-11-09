@@ -75,7 +75,7 @@ export default function Signup() {
                 .required(`What's your Email address?`),
             user: Yup.string()
                 .min(3, 'Must be 3 characters or More')
-                .matches(/[0-9]/, 'Password must have a Number')
+                .matches(/[0-9]/, 'UserName must have a Number')
                 .max(25, 'Must be 25 characters or less')
                 .required(`What's your UserName?`),
             pass: Yup.string()
